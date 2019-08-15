@@ -1,0 +1,14 @@
+{
+  "name": "docker-semantic-release",
+  "version": 1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "semantic-release": "15.13.3",
+    "@semantic-release/changelog": "^3.0.2",
+    "@semantic-release/exec": "^3.3.2",
+    "@semantic-release/git": "^7.0.8",
+    "@commitlint/cli": "^7.5.2",
+    "@commitlint/config-conventional": "^7.5.0",
+    "@semantic-config/python-config": "file:/opt/semantic-release-config/python-config"
+  }
+}
